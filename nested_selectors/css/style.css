@@ -1,0 +1,18 @@
+body {
+  font-family: arial Helvetica sans-serif;
+  line-height: 1.5;
+  padding: 20px;
+}
+
+.famous {
+  background: red;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+blockquote p .famous {
+  background: green;
+  font-style: italic;
+}
